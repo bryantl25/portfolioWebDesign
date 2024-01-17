@@ -1,1 +1,2 @@
-This file is here just to keep the folder it's in from breaking in my code editor. Nice job, file! 
+This file is here just to keep the folder it's in from breaking in my code editor. 
+Nice job, file! 
